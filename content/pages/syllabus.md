@@ -41,11 +41,80 @@ Course Policies
 Assignments and Grading
 -----------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Participation {{< br >}}{{< br >}} – In-class participation (weekly) (15%)  {{< br >}}– Written participation via online discussion board (10) (10%)  {{< br >}}– Mid-course appraisal (1) (0% of grade, but required) {{< br >}}{{< br >}}  | 25% |
-| Tech tutorial (1) | 10% |
-| Quizzes (2) | 10% |
-| Policy memos (2) | 10% |
-| Major written assignment (1) | 20% |
-| Final paper (1) | 25%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Participation
+
+– In-class participation (weekly) (15%)  
+– Written participation via online discussion board (10) (10%)  
+– Mid-course appraisal (1) (0% of grade, but required)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tech tutorial (1)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes (2)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Policy memos (2)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Major written assignment (1)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper (1)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

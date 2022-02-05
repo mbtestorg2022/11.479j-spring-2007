@@ -9,21 +9,359 @@ This section presents [readings by session](#Readings_by_Session), [other requir
 {{< anchor "Readings_by_Session" >}}{{< /anchor >}}Readings by Session
 ----------------------------------------------------------------------
 
-| SES # | Topics | READINGS |
-| --- | --- | --- |
-| 1 | Introduction to water and sanitation development | &nbsp; |
-| 2 | Basic concepts, water rich / water poor, and pictoral tour of global water and sanitation |  {{< br >}}{{< br >}} [Millennium Development Goals](http://www.worldbank.org/mdgs/), The World Bank Group. {{< br >}}{{< br >}} United Nations Development Programme. [_Human Development Report 2006 — Beyond Scarcity: Power, Poverty and the Global Water Crisis_](http://hdr.undp.org/en/reports/global/hdr2006/). New York, NY: United Nations Development Programme, 2006, chapter 1. ISBN: 9780230500587. {{< br >}}{{< br >}} World Health Organization and UNICEF. _Meeting the MDG Drinking Water and Sanitation Target: A Mid-term Assessment Report_. New York, NY: World Health Organization and United Nations Children's Fund, 2004. ISBN: 9789241562782. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8 MB](http://www.who.int/entity/water_sanitation_health/monitoring/jmp04.pdf)) {{< br >}}{{< br >}} {{< h 3 >}}Recommended readings{{< /h >}} {{< br >}}{{< br >}} World Health Organization and UNICEF. _Water for Life — Making It Happen_. New York, NY: World Health Organization and UNICEF, 2005. ISBN: 9789241562935. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9 MB](http://www.who.int/entity/water_sanitation_health/waterforlife.pdf)) {{< br >}}{{< br >}} Lenton, R., A. M. Wright, and K. Lewis. _Health, Dignity, and Development: What Will It Take?_ New York, NY: United Nations Development Program, 2005. ISBN: 9781844072194. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)](http://www.unoosa.org/documents/pdf/psa/activities/2005/graz/watercomplete-lowres.pdf)[PDF - 1.7MB](http://www.unoosa.org/documents/pdf/psa/activities/2005/graz/watercomplete-lowres.pdf)) {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} A utility's pro-poor approach in Bangalore's slums {{< br >}}{{< br >}} Guest lecture: Genevieve Connors, Urban Development Sector Unit, East Asia and Pacific Region, World Bank {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Connors, Genevieve. "When Utilities Muddle Through: Pro-poor Governance in Bangalore's Public Water Sector." _Environment and Urbanization_ 17, no. 1 (2005): 201-218. {{< br >}}{{< br >}} Water and Sanitation Program. _[Connecting the Slums: A Utility's Approach in Bangalore](https://wedc-knowledge.lboro.ac.uk/details.html?id=16859)_. New Delhi, India: Water Sanitation Programme South Asia, 2006. {{< br >}}{{< br >}} Cairncross, Sandy, and Richard Feachem. _Environmental Health Engineering in the Tropics: An Introductory Text_. Chichester, UK: John Wiley & Sons, 1993, chapter 1 and appendix C. ISBN: 9780471938859. {{< br >}}{{< br >}} Mara, Duncan. _Low Cost Urban Sanitation_. Chichester, UK: John Wiley & Sons, 1996, chapter 2. ISBN: 9780471961635. {{< br >}}{{< br >}} Esrey, S. A., R. G. Feachem, and J. M. Hughes. "Interventions for the Control of Diarrhoeal Diseases among Young Children: Improving Water Supplies and Excreta Disposal Facilities." _Bulletin of the World Health Organization_ 63, no. 4 (1985): 757-772. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB](http://whqlibdoc.who.int/bulletin/1985/Vol63-No4/bulletin_1985_63(4)_757-772.pdf)) {{< br >}}{{< br >}} Colford, John, Jr., and Lorna Fewtrell. "[Water, Sanitation and Hygiene: Interventions and Diarrhoea: A Systematic Review and Meta-analysis](http://www-wds.worldbank.org/external/default/main?pagePK=64193027&piPK=64187937&theSitePK=523679&menuPK=64187510&searchMenuPK=64187283&siteName=WDS&entityID=000090341_20060131093704)." Health, Nutrition and Population Discussion Paper, World Bank, 2004. {{< br >}}{{< br >}} "Technical Brief No. 52: Water — Quality or Quantity?" _Waterlines_ 22, no. 4 (2004): 15-18. {{< br >}}{{< br >}}  |
-| 4 | Water, sanitation and hygiene-related diseases |  {{< br >}}{{< br >}} Skinner, Brian. _Small-scale Water Supply: A Review of Technologies_. Warwickshire, UK: Practical Action Publishing, 2003, chapter 3. ISBN: 9781853395406. {{< br >}}{{< br >}} MacDonald, Alan, Jeff Davies, Roger Calow, and John Chilton. _Developing Groundwater: A Guide for Rural Water Supply_. London, UK: ITDG Publishing, 2005, chapter 2. ISBN: 9781853395963. {{< br >}}{{< br >}} Cairncross, Sandy, and Richard Feachem. _Environmental Health Engineering in the Tropics: An Introductory Text_. Chichester, UK: John Wiley & Sons, 1993, chapters 4 and 5. ISBN: 9780471938859. {{< br >}}{{< br >}}  |
-| 5 | Sources of water and water supply planning |  {{< br >}}{{< br >}} MacDonald, Alan, Jeff Davies, Roger Calow, and John Chilton. _Developing Groundwater: A Guide for Rural Water Supply_. London, UK: ITDG Publishing, 2005, chapters 3 and 4. ISBN: 9781853395963. {{< br >}}{{< br >}} Howard, Guy, and Jamie Bartram. [_Domestic Water Quantity, Service Level and Health_](http://www.who.int/water_sanitation_health/publications/wsh0302/en/). World Health Organization, 2003. {{< br >}}{{< br >}}  |
-| 6 | Water quality and simple water quality field testing demo |  {{< br >}}{{< br >}} World Health Organization. [_Guidelines for Drinking-water Quality_](https://apps.who.int/iris/bitstream/handle/10665/44584/9789241548151_eng.pdf;jsessionid=A175A3E8046C43B02B202A1A571E15E7?sequence=1). 3rd edition, vol. 1. _Recommendations_. Geneva, Switzerland: World Health Organization, 2004, chapters 1, 2, 3, 4 and 7. ISBN: 9789241546386. {{< br >}}{{< br >}} Ngai, T., S. Murcott, R. Shrestha, B. Dangol, and M. Maharjan. "Development and Dissemination of Kanchan™ Arsenic Filter in Rural Nepal." _Water, Science and Technology: Water Supply_ 6, no. 3 (2006): 137-146. {{< br >}}{{< br >}}  |
-| 7 | Decentralized household water treatment and safe storage |  {{< br >}}{{< br >}} World Health Organization. [_Combating Waterborne Disease at the Household Level_](http://www.who.int/water_sanitation_health/publications/combating-waterborne-disease/en/). Geneva, Switzerland: World Health Organization, 2007, ISBN: 978921595223. {{< br >}}{{< br >}} Nath, K. J., S. Bloomfield, and M. Jones. _Household Water Storage, Handling and Point-of-use Treatment_. International Scientific Forum on Home Hygiene, 2006, pp. 5 and 24-29. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB](http://www.ifh-homehygiene.org/2003/2library/low_res_water_paper.pdf)) {{< br >}}{{< br >}} Murcott, S. _Implementation, Critical Factors and Challenges to Scale-Up of Household Drinking Water Treatment and Safe Storage Systems_. Background Paper on Household Water Treatment and Safe Storage (HWTS), 2006. ([PDF]({{< baseurl >}}/resources/hwts_paper)). Also available through the [USAID Hygiene Improvement Project](http://www.hip.watsan.net/page/504). {{< br >}}{{< br >}} Clasen, Thomas, and Sandy Cairncross. "Editorial: Household Water Management: Refining the Dominant Paradigm." _Tropical Medicine and International Health_ 9, no. 2 (2004): 187-191. {{< br >}}{{< br >}} {{< h 3 >}}Recommended readings{{< /h >}} {{< br >}}{{< br >}} Wright, Jim, Stephen Gundry, and Ronan Conroy. "Household Drinking Water in Developing Countries: A Systematic Review of Microbiological Contamination between Source and Point-of-use." _Tropical Medicine and International Health_ 9, no. 1 (2004): 106-117. {{< br >}}{{< br >}} Gundry, Stephen, Ronan Conroy, and Jim Wright. "A Systematic Review of the Health Outcomes Related to Household Water Quality in Developing Countries." _Journal of Water and Health_ 2 (2004): 1-13. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pdfs.semanticscholar.org/69d3/7965fb55c7589e6173c4e8be9a580ae2283e.pdf?_ga=2.186446188.475975581.1565631504-672817412.1563980296)) {{< br >}}{{< br >}} Sobsey, Mark. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Managing Water in the Home: Accelerated Health Gains from Improved Water Supply_. (PDF)](http://www.who.int/water_sanitation_health/dwq/WSH02.07.pdf) World Health Organization, 2002. {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Centralized water treatment: MWRA and Beijing {{< br >}}{{< br >}} Guest lecture: Joshua Das, Massachusetts Water Resources Authority {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Cairncross, Sandy, and Richard Feachem. _Environmental Health Engineering in the Tropics: An Introductory Text_. Chichester, UK: John Wiley & Sons, 1993, chapter 6. ISBN: 9780471938859. {{< br >}}{{< br >}} Postel, Sandra. "Aquatic Ecosystem Protection and Drinking Water Utilities." _Journal of the American Water Works Association_ 99, no. 2 (2007): 52-63. {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Sewage collection systems {{< br >}}{{< br >}} Guest lecture: Earthea Nance, Virginia Tech {{< br >}}{{< br >}}  | {{< h 3 >}}Institutional{{< /h >}} {{< br >}}{{< br >}} Paul, Samuel. "Accountability in Public Services: Exit, Voice and Control." _World Development_ 20, no. 7 (1992): 1047-1060. {{< br >}}{{< br >}} Budds, Jessica, and Gordon McGranahan. "Are the Debates on Water Privatization Missing the Point? Experiences from Africa, Asia and Latin America." _Environment and Urbanization_ 15, no. 2 (2003): 87-113. {{< br >}}{{< br >}} Davis, J., et al. "Local Government: Kerala, India." In _Good Governance in the Water and Sanitation Sector: Experience from South Asia_. New Delhi, India: Water and Sanitation Program. 2001. {{< br >}}{{< br >}} NOTE: If you are unfamiliar with international aid agencies like the World Bank, you will also find the following Web sites useful: [The World Bank Group](http://www.worldbank.org/) (click on "About" in the top left corner); [The World Bank and International Monetary Fund](http://en.wikipedia.org/wiki/International_Monetary_Fund) (start with the Questions and Answers link). {{< br >}}{{< br >}} {{< h 3 >}}Stakeholders{{< /h >}} {{< br >}}{{< br >}} Lovei, L., et al. "Rent-Extracting Behavior by Multiple Agents in the Provision of Municipal Water Supply: A Study of Jakarta, Indonesia." _Water Resources Research_ 29, no. 7 (1993): 1965-1974. {{< br >}}{{< br >}} Davis, J. "Corruption in Public Services: Experience from South Asia's Water and Sanitation Sector." _World Development_ 32, no. 1 (2004): 53-71. {{< br >}}{{< br >}} Regmi, S., and B. Fawcett. "Integrating Gender Needs into Drinking-water Projects in Nepal." _Gender and Development_ 7, no. 3 (1999): 62-72. {{< br >}}{{< br >}} {{< h 3 >}}Evolution of W&S: supply vs. demand{{< /h >}} {{< br >}}{{< br >}} Garn, H. _Lessons from Large-scale Rural Water and Sanitation Projects: Transition and Innovation_. Washington, DC: The World Bank, 1997. {{< br >}}{{< br >}} McPhail, A. "The 'Five Percent Rule' for Improved Water Service: Can Households Afford More?" _World Development_ 21, no. 6 (1993): 963-973. {{< br >}}{{< br >}} "Willing to Pay but Unwilling to Charge: Do Willingness-to-pay Studies Make a Difference?" _Water and Sanitation Program_, 1999. {{< br >}}{{< br >}} {{< h 3 >}}Privatization{{< /h >}} {{< br >}}{{< br >}} Birdsall, Nancy, and John Nellis. "Winners and Losers: Assessing the Distributional Impact of Privatization." _World Development_ 31, no. 10 (2003): 1617-1633. {{< br >}}{{< br >}} Balanyá, Belén, Brid Brennan, Olivier Hoedeman, Satoko Kishimoto, and Philipp Terhorst. [_Reclaiming Public Water: Achievements, Struggles and Visions from Around the World_](http://www.tni.org/tnibook/reclaiming-public-water-2). Transnational Institute and Corporate Europe Observatory, 2005. ISBN: 9789071007101. {{< br >}}{{< br >}}  |
-| 10 | Sanitation history, centralized wastewater treatment, and reuse |  {{< br >}}{{< br >}} Okun, Daniel A. "From Cholera to Cancer to Cryptosporidiosis." _Journal of Environmental Engineering_ 122, no. 6 (1996): 453-458. {{< br >}}{{< br >}} Mara, Duncan. _Domestic Wastewater Treatment in Developing Countries_. London, UK: Earthscan Publications Ltd, 2004, chapters 1, 4, 6, and 7. ISBN: 9781844070190. {{< br >}}{{< br >}} ———. _Low Cost Urban Sanitation_. Chichester, UK: John Wiley & Sons, 1996, chapters 6 and 7. ISBN: 9780471961635. {{< br >}}{{< br >}} {{< h 3 >}}Recommended readings{{< /h >}} {{< br >}}{{< br >}} Harleman, D., and S. Murcott. "An Innovative Approach to Urban Wastewater Treatment in the Developing World." _Water 21: Magazine of the International Water Association_ (June 2001). {{< br >}}{{< br >}} Parker, D. S., J. Barnard, G. T. Daigger, R. J. Tekippe, and E. J. Wahlberg. "The Future of Chemically Enhanced Primary Treatment: Evolution Not Revolution." _Water 21: Magazine of the International Water Association_ (June 2001). {{< br >}}{{< br >}} Harleman, D., and S. Murcott. "Rebuttal by Harleman and Murcott to Parker et al. Discussion Paper: 'The Future of Chemically Enhanced Primary Treatment: Evolution Not Revolution.'" _Water 21: Magazine of the International Water Association_ (June 2001). {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Water and sanitation financing {{< br >}}{{< br >}} Guest lecture: Prof. Peter Rogers, Harvard University {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Rogers, Peter, Radhika de Silva, and Ramesh Bhatia. "Water as an Economic Good: How to Use Prices to Promote Equity, Efficiency and Sustainability." _Water Policy_ 4 (2002): 1-17. {{< br >}}{{< br >}} Rogers, Peter, Ramesh Bhatia, and Annette Huber. "Water as a Social and Economic Good: How to Put Principle into Practice." Technical Advisory Committee, Global Water Partnership. TAC Background Paper No. 2, 1998. {{< br >}}{{< br >}} Cutler, David, and Grant Miller. "The Role of Public Health Improvements in Health Advances: The Twentieth-Century United States." _Demography_ 42, no. 1 (2005): 1-22. {{< br >}}{{< br >}} Hutton, Guy, and Laurence Haller. "Evaluation of the Costs and Benefits of Water and Sanitation Improvements at the Global Level." Water, Sanitation, and Health, Protection of the Human Environment, World Health Organization, Geneva, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.who.int/water_sanitation_health/en/wsh0404.pdf)) {{< br >}}{{< br >}} {{< h 2 >}}Recommended readings{{< /h >}} {{< br >}}{{< br >}} Davis, Jennifer. 11.479 Tutorial 1: Principles of Microeconomics. ([PDF]({{< baseurl >}}/resources/micro_tutorial)) (Courtesy of Jennifer Davis. Used with permission.) {{< br >}}{{< br >}} McPhail, Alexander. "The 'Five Percent Rule' for Improved Water Service: Can Households Afford More?" _World Development_ 21, no. 6 (1993): 963-973. {{< br >}}{{< br >}} Whittington, Dale, Subhrendu Pattanayak, Jui-Chen Yang, and K. C. Bal Kumar. "Household Demand for Improved Piped Water Services: Evidence from Kathmandu, Nepal." _Water Policy_ 4 (2002): 531-536. {{< br >}}{{< br >}} Pattanayak, Subhrendu, Jui-Chen Yang, Dale Whittington, and K. C. Bal Kumar. "Coping With Unreliable Public Water Supplies: Averting Expenditures by Households in Kathmandu, Nepal." _Water Resources Research_ 41 (2005). {{< br >}}{{< br >}} Whittington, Dale, Donald Lauria, Vimalanand Prabhu, and Joe Cook. "An Economic Reappraisal of the Melamchi Water Supply Project - Kathmandu, Nepal." _Portuguese Economic Journal_ 3 (2004): 157-178. {{< br >}}{{< br >}} Whittington, Dale. "Municipal Water Pricing and Tariff Design: A Reform Agenda for South Asia." _Water Policy_ 5 (2003): 61-76. {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} On-site excreta disposal {{< br >}}{{< br >}} Guest lecture: Brian Robinson (with Susan Murcott) {{< br >}}{{< br >}}  | Pickford, John. _Low-Cost Sanitation: A Survey of Practical Experience_. London, UK: Immediate Technology Publications, 1995, chapters 4, 5, 8, and 9. ISBN: 9781853392337. |
-| 13 | Wrap-up |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to water and sanitation development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Basic concepts, water rich / water poor, and pictoral tour of global water and sanitation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Millennium Development Goals](http://www.worldbank.org/mdgs/), The World Bank Group.
+
+United Nations Development Programme. [_Human Development Report 2006 — Beyond Scarcity: Power, Poverty and the Global Water Crisis_](http://hdr.undp.org/en/reports/global/hdr2006/). New York, NY: United Nations Development Programme, 2006, chapter 1. ISBN: 9780230500587.
+
+World Health Organization and UNICEF. _Meeting the MDG Drinking Water and Sanitation Target: A Mid-term Assessment Report_. New York, NY: World Health Organization and United Nations Children's Fund, 2004. ISBN: 9789241562782. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8 MB](http://www.who.int/entity/water_sanitation_health/monitoring/jmp04.pdf))
+
+### Recommended readings
+
+World Health Organization and UNICEF. _Water for Life — Making It Happen_. New York, NY: World Health Organization and UNICEF, 2005. ISBN: 9789241562935. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9 MB](http://www.who.int/entity/water_sanitation_health/waterforlife.pdf))
+
+Lenton, R., A. M. Wright, and K. Lewis. _Health, Dignity, and Development: What Will It Take?_ New York, NY: United Nations Development Program, 2005. ISBN: 9781844072194. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)](http://www.unoosa.org/documents/pdf/psa/activities/2005/graz/watercomplete-lowres.pdf)[PDF - 1.7MB](http://www.unoosa.org/documents/pdf/psa/activities/2005/graz/watercomplete-lowres.pdf))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+A utility's pro-poor approach in Bangalore's slums
+
+Guest lecture: Genevieve Connors, Urban Development Sector Unit, East Asia and Pacific Region, World Bank
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Connors, Genevieve. "When Utilities Muddle Through: Pro-poor Governance in Bangalore's Public Water Sector." _Environment and Urbanization_ 17, no. 1 (2005): 201-218.
+
+Water and Sanitation Program. _[Connecting the Slums: A Utility's Approach in Bangalore](https://wedc-knowledge.lboro.ac.uk/details.html?id=16859)_. New Delhi, India: Water Sanitation Programme South Asia, 2006.
+
+Cairncross, Sandy, and Richard Feachem. _Environmental Health Engineering in the Tropics: An Introductory Text_. Chichester, UK: John Wiley & Sons, 1993, chapter 1 and appendix C. ISBN: 9780471938859.
+
+Mara, Duncan. _Low Cost Urban Sanitation_. Chichester, UK: John Wiley & Sons, 1996, chapter 2. ISBN: 9780471961635.
+
+Esrey, S. A., R. G. Feachem, and J. M. Hughes. "Interventions for the Control of Diarrhoeal Diseases among Young Children: Improving Water Supplies and Excreta Disposal Facilities." _Bulletin of the World Health Organization_ 63, no. 4 (1985): 757-772. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB](http://whqlibdoc.who.int/bulletin/1985/Vol63-No4/bulletin_1985_63(4)_757-772.pdf))
+
+Colford, John, Jr., and Lorna Fewtrell. "[Water, Sanitation and Hygiene: Interventions and Diarrhoea: A Systematic Review and Meta-analysis](http://www-wds.worldbank.org/external/default/main?pagePK=64193027&piPK=64187937&theSitePK=523679&menuPK=64187510&searchMenuPK=64187283&siteName=WDS&entityID=000090341_20060131093704)." Health, Nutrition and Population Discussion Paper, World Bank, 2004.
+
+"Technical Brief No. 52: Water — Quality or Quantity?" _Waterlines_ 22, no. 4 (2004): 15-18.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Water, sanitation and hygiene-related diseases
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Skinner, Brian. _Small-scale Water Supply: A Review of Technologies_. Warwickshire, UK: Practical Action Publishing, 2003, chapter 3. ISBN: 9781853395406.
+
+MacDonald, Alan, Jeff Davies, Roger Calow, and John Chilton. _Developing Groundwater: A Guide for Rural Water Supply_. London, UK: ITDG Publishing, 2005, chapter 2. ISBN: 9781853395963.
+
+Cairncross, Sandy, and Richard Feachem. _Environmental Health Engineering in the Tropics: An Introductory Text_. Chichester, UK: John Wiley & Sons, 1993, chapters 4 and 5. ISBN: 9780471938859.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Sources of water and water supply planning
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+MacDonald, Alan, Jeff Davies, Roger Calow, and John Chilton. _Developing Groundwater: A Guide for Rural Water Supply_. London, UK: ITDG Publishing, 2005, chapters 3 and 4. ISBN: 9781853395963.
+
+Howard, Guy, and Jamie Bartram. [_Domestic Water Quantity, Service Level and Health_](http://www.who.int/water_sanitation_health/publications/wsh0302/en/). World Health Organization, 2003.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Water quality and simple water quality field testing demo
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+World Health Organization. [_Guidelines for Drinking-water Quality_](https://apps.who.int/iris/bitstream/handle/10665/44584/9789241548151_eng.pdf;jsessionid=A175A3E8046C43B02B202A1A571E15E7?sequence=1). 3rd edition, vol. 1. _Recommendations_. Geneva, Switzerland: World Health Organization, 2004, chapters 1, 2, 3, 4 and 7. ISBN: 9789241546386.
+
+Ngai, T., S. Murcott, R. Shrestha, B. Dangol, and M. Maharjan. "Development and Dissemination of Kanchan™ Arsenic Filter in Rural Nepal." _Water, Science and Technology: Water Supply_ 6, no. 3 (2006): 137-146.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Decentralized household water treatment and safe storage
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+World Health Organization. [_Combating Waterborne Disease at the Household Level_](http://www.who.int/water_sanitation_health/publications/combating-waterborne-disease/en/). Geneva, Switzerland: World Health Organization, 2007, ISBN: 978921595223.
+
+Nath, K. J., S. Bloomfield, and M. Jones. _Household Water Storage, Handling and Point-of-use Treatment_. International Scientific Forum on Home Hygiene, 2006, pp. 5 and 24-29. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB](http://www.ifh-homehygiene.org/2003/2library/low_res_water_paper.pdf))
+
+Murcott, S. _Implementation, Critical Factors and Challenges to Scale-Up of Household Drinking Water Treatment and Safe Storage Systems_. Background Paper on Household Water Treatment and Safe Storage (HWTS), 2006. ([PDF]({{< baseurl >}}/resources/hwts_paper)). Also available through the [USAID Hygiene Improvement Project](http://www.hip.watsan.net/page/504).
+
+Clasen, Thomas, and Sandy Cairncross. "Editorial: Household Water Management: Refining the Dominant Paradigm." _Tropical Medicine and International Health_ 9, no. 2 (2004): 187-191.
+
+### Recommended readings
+
+Wright, Jim, Stephen Gundry, and Ronan Conroy. "Household Drinking Water in Developing Countries: A Systematic Review of Microbiological Contamination between Source and Point-of-use." _Tropical Medicine and International Health_ 9, no. 1 (2004): 106-117.
+
+Gundry, Stephen, Ronan Conroy, and Jim Wright. "A Systematic Review of the Health Outcomes Related to Household Water Quality in Developing Countries." _Journal of Water and Health_ 2 (2004): 1-13. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pdfs.semanticscholar.org/69d3/7965fb55c7589e6173c4e8be9a580ae2283e.pdf?_ga=2.186446188.475975581.1565631504-672817412.1563980296))
+
+Sobsey, Mark. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Managing Water in the Home: Accelerated Health Gains from Improved Water Supply_. (PDF)](http://www.who.int/water_sanitation_health/dwq/WSH02.07.pdf) World Health Organization, 2002.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Centralized water treatment: MWRA and Beijing
+
+Guest lecture: Joshua Das, Massachusetts Water Resources Authority
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cairncross, Sandy, and Richard Feachem. _Environmental Health Engineering in the Tropics: An Introductory Text_. Chichester, UK: John Wiley & Sons, 1993, chapter 6. ISBN: 9780471938859.
+
+Postel, Sandra. "Aquatic Ecosystem Protection and Drinking Water Utilities." _Journal of the American Water Works Association_ 99, no. 2 (2007): 52-63.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sewage collection systems
+
+Guest lecture: Earthea Nance, Virginia Tech
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Institutional
+
+Paul, Samuel. "Accountability in Public Services: Exit, Voice and Control." _World Development_ 20, no. 7 (1992): 1047-1060.
+
+Budds, Jessica, and Gordon McGranahan. "Are the Debates on Water Privatization Missing the Point? Experiences from Africa, Asia and Latin America." _Environment and Urbanization_ 15, no. 2 (2003): 87-113.
+
+Davis, J., et al. "Local Government: Kerala, India." In _Good Governance in the Water and Sanitation Sector: Experience from South Asia_. New Delhi, India: Water and Sanitation Program. 2001.
+
+NOTE: If you are unfamiliar with international aid agencies like the World Bank, you will also find the following Web sites useful: [The World Bank Group](http://www.worldbank.org/) (click on "About" in the top left corner); [The World Bank and International Monetary Fund](http://en.wikipedia.org/wiki/International_Monetary_Fund) (start with the Questions and Answers link).
+
+### Stakeholders
+
+Lovei, L., et al. "Rent-Extracting Behavior by Multiple Agents in the Provision of Municipal Water Supply: A Study of Jakarta, Indonesia." _Water Resources Research_ 29, no. 7 (1993): 1965-1974.
+
+Davis, J. "Corruption in Public Services: Experience from South Asia's Water and Sanitation Sector." _World Development_ 32, no. 1 (2004): 53-71.
+
+Regmi, S., and B. Fawcett. "Integrating Gender Needs into Drinking-water Projects in Nepal." _Gender and Development_ 7, no. 3 (1999): 62-72.
+
+### Evolution of W&S: supply vs. demand
+
+Garn, H. _Lessons from Large-scale Rural Water and Sanitation Projects: Transition and Innovation_. Washington, DC: The World Bank, 1997.
+
+McPhail, A. "The 'Five Percent Rule' for Improved Water Service: Can Households Afford More?" _World Development_ 21, no. 6 (1993): 963-973.
+
+"Willing to Pay but Unwilling to Charge: Do Willingness-to-pay Studies Make a Difference?" _Water and Sanitation Program_, 1999.
+
+### Privatization
+
+Birdsall, Nancy, and John Nellis. "Winners and Losers: Assessing the Distributional Impact of Privatization." _World Development_ 31, no. 10 (2003): 1617-1633.
+
+Balanyá, Belén, Brid Brennan, Olivier Hoedeman, Satoko Kishimoto, and Philipp Terhorst. [_Reclaiming Public Water: Achievements, Struggles and Visions from Around the World_](http://www.tni.org/tnibook/reclaiming-public-water-2). Transnational Institute and Corporate Europe Observatory, 2005. ISBN: 9789071007101.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Sanitation history, centralized wastewater treatment, and reuse
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Okun, Daniel A. "From Cholera to Cancer to Cryptosporidiosis." _Journal of Environmental Engineering_ 122, no. 6 (1996): 453-458.
+
+Mara, Duncan. _Domestic Wastewater Treatment in Developing Countries_. London, UK: Earthscan Publications Ltd, 2004, chapters 1, 4, 6, and 7. ISBN: 9781844070190.
+
+———. _Low Cost Urban Sanitation_. Chichester, UK: John Wiley & Sons, 1996, chapters 6 and 7. ISBN: 9780471961635.
+
+### Recommended readings
+
+Harleman, D., and S. Murcott. "An Innovative Approach to Urban Wastewater Treatment in the Developing World." _Water 21: Magazine of the International Water Association_ (June 2001).
+
+Parker, D. S., J. Barnard, G. T. Daigger, R. J. Tekippe, and E. J. Wahlberg. "The Future of Chemically Enhanced Primary Treatment: Evolution Not Revolution." _Water 21: Magazine of the International Water Association_ (June 2001).
+
+Harleman, D., and S. Murcott. "Rebuttal by Harleman and Murcott to Parker et al. Discussion Paper: 'The Future of Chemically Enhanced Primary Treatment: Evolution Not Revolution.'" _Water 21: Magazine of the International Water Association_ (June 2001).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Water and sanitation financing
+
+Guest lecture: Prof. Peter Rogers, Harvard University
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rogers, Peter, Radhika de Silva, and Ramesh Bhatia. "Water as an Economic Good: How to Use Prices to Promote Equity, Efficiency and Sustainability." _Water Policy_ 4 (2002): 1-17.
+
+Rogers, Peter, Ramesh Bhatia, and Annette Huber. "Water as a Social and Economic Good: How to Put Principle into Practice." Technical Advisory Committee, Global Water Partnership. TAC Background Paper No. 2, 1998.
+
+Cutler, David, and Grant Miller. "The Role of Public Health Improvements in Health Advances: The Twentieth-Century United States." _Demography_ 42, no. 1 (2005): 1-22.
+
+Hutton, Guy, and Laurence Haller. "Evaluation of the Costs and Benefits of Water and Sanitation Improvements at the Global Level." Water, Sanitation, and Health, Protection of the Human Environment, World Health Organization, Geneva, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.who.int/water_sanitation_health/en/wsh0404.pdf))
+
+Recommended readings
+--------------------
+
+Davis, Jennifer. 11.479 Tutorial 1: Principles of Microeconomics. ([PDF]({{< baseurl >}}/resources/micro_tutorial)) (Courtesy of Jennifer Davis. Used with permission.)
+
+McPhail, Alexander. "The 'Five Percent Rule' for Improved Water Service: Can Households Afford More?" _World Development_ 21, no. 6 (1993): 963-973.
+
+Whittington, Dale, Subhrendu Pattanayak, Jui-Chen Yang, and K. C. Bal Kumar. "Household Demand for Improved Piped Water Services: Evidence from Kathmandu, Nepal." _Water Policy_ 4 (2002): 531-536.
+
+Pattanayak, Subhrendu, Jui-Chen Yang, Dale Whittington, and K. C. Bal Kumar. "Coping With Unreliable Public Water Supplies: Averting Expenditures by Households in Kathmandu, Nepal." _Water Resources Research_ 41 (2005).
+
+Whittington, Dale, Donald Lauria, Vimalanand Prabhu, and Joe Cook. "An Economic Reappraisal of the Melamchi Water Supply Project - Kathmandu, Nepal." _Portuguese Economic Journal_ 3 (2004): 157-178.
+
+Whittington, Dale. "Municipal Water Pricing and Tariff Design: A Reform Agenda for South Asia." _Water Policy_ 5 (2003): 61-76.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+On-site excreta disposal
+
+Guest lecture: Brian Robinson (with Susan Murcott)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Pickford, John. _Low-Cost Sanitation: A Survey of Practical Experience_. London, UK: Immediate Technology Publications, 1995, chapters 4, 5, 8, and 9. ISBN: 9781853392337.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap-up
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
