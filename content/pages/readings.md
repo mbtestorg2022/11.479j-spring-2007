@@ -51,13 +51,13 @@ Basic concepts, water rich / water poor, and pictoral tour of global water and s
 
 United Nations Development Programme. [_Human Development Report 2006 — Beyond Scarcity: Power, Poverty and the Global Water Crisis_](http://hdr.undp.org/en/reports/global/hdr2006/). New York, NY: United Nations Development Programme, 2006, chapter 1. ISBN: 9780230500587.
 
-World Health Organization and UNICEF. _Meeting the MDG Drinking Water and Sanitation Target: A Mid-term Assessment Report_. New York, NY: World Health Organization and United Nations Children's Fund, 2004. ISBN: 9789241562782. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8 MB](http://www.who.int/entity/water_sanitation_health/monitoring/jmp04.pdf))
+World Health Organization and UNICEF. _Meeting the MDG Drinking Water and Sanitation Target: A Mid-term Assessment Report_. New York, NY: World Health Organization and United Nations Children's Fund, 2004. ISBN: 9789241562782. ([PDF - 1.8 MB](http://www.who.int/entity/water_sanitation_health/monitoring/jmp04.pdf))
 
 ### Recommended readings
 
-World Health Organization and UNICEF. _Water for Life — Making It Happen_. New York, NY: World Health Organization and UNICEF, 2005. ISBN: 9789241562935. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9 MB](http://www.who.int/entity/water_sanitation_health/waterforlife.pdf))
+World Health Organization and UNICEF. _Water for Life — Making It Happen_. New York, NY: World Health Organization and UNICEF, 2005. ISBN: 9789241562935. ([PDF - 1.9 MB](http://www.who.int/entity/water_sanitation_health/waterforlife.pdf))
 
-Lenton, R., A. M. Wright, and K. Lewis. _Health, Dignity, and Development: What Will It Take?_ New York, NY: United Nations Development Program, 2005. ISBN: 9781844072194. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)](http://www.unoosa.org/documents/pdf/psa/activities/2005/graz/watercomplete-lowres.pdf)[PDF - 1.7MB](http://www.unoosa.org/documents/pdf/psa/activities/2005/graz/watercomplete-lowres.pdf))
+Lenton, R., A. M. Wright, and K. Lewis. _Health, Dignity, and Development: What Will It Take?_ New York, NY: United Nations Development Program, 2005. ISBN: 9781844072194. ([](http://www.unoosa.org/documents/pdf/psa/activities/2005/graz/watercomplete-lowres.pdf)[PDF - 1.7MB](http://www.unoosa.org/documents/pdf/psa/activities/2005/graz/watercomplete-lowres.pdf))
 
 
 {{< tdclose >}}
@@ -87,7 +87,7 @@ Cairncross, Sandy, and Richard Feachem. _Environmental Health Engineering in the
 
 Mara, Duncan. _Low Cost Urban Sanitation_. Chichester, UK: John Wiley & Sons, 1996, chapter 2. ISBN: 9780471961635.
 
-Esrey, S. A., R. G. Feachem, and J. M. Hughes. "Interventions for the Control of Diarrhoeal Diseases among Young Children: Improving Water Supplies and Excreta Disposal Facilities." _Bulletin of the World Health Organization_ 63, no. 4 (1985): 757-772. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB](http://whqlibdoc.who.int/bulletin/1985/Vol63-No4/bulletin_1985_63(4)_757-772.pdf))
+Esrey, S. A., R. G. Feachem, and J. M. Hughes. "Interventions for the Control of Diarrhoeal Diseases among Young Children: Improving Water Supplies and Excreta Disposal Facilities." _Bulletin of the World Health Organization_ 63, no. 4 (1985): 757-772. ([PDF - 1.0 MB](http://whqlibdoc.who.int/bulletin/1985/Vol63-No4/bulletin_1985_63(4)_757-772.pdf))
 
 Colford, John, Jr., and Lorna Fewtrell. "[Water, Sanitation and Hygiene: Interventions and Diarrhoea: A Systematic Review and Meta-analysis](http://www-wds.worldbank.org/external/default/main?pagePK=64193027&piPK=64187937&theSitePK=523679&menuPK=64187510&searchMenuPK=64187283&siteName=WDS&entityID=000090341_20060131093704)." Health, Nutrition and Population Discussion Paper, World Bank, 2004.
 
@@ -165,7 +165,7 @@ Decentralized household water treatment and safe storage
 
 World Health Organization. [_Combating Waterborne Disease at the Household Level_](http://www.who.int/water_sanitation_health/publications/combating-waterborne-disease/en/). Geneva, Switzerland: World Health Organization, 2007, ISBN: 978921595223.
 
-Nath, K. J., S. Bloomfield, and M. Jones. _Household Water Storage, Handling and Point-of-use Treatment_. International Scientific Forum on Home Hygiene, 2006, pp. 5 and 24-29. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB](http://www.ifh-homehygiene.org/2003/2library/low_res_water_paper.pdf))
+Nath, K. J., S. Bloomfield, and M. Jones. _Household Water Storage, Handling and Point-of-use Treatment_. International Scientific Forum on Home Hygiene, 2006, pp. 5 and 24-29. ([PDF - 1.6 MB](http://www.ifh-homehygiene.org/2003/2library/low_res_water_paper.pdf))
 
 Murcott, S. _Implementation, Critical Factors and Challenges to Scale-Up of Household Drinking Water Treatment and Safe Storage Systems_. Background Paper on Household Water Treatment and Safe Storage (HWTS), 2006. ([PDF]({{< baseurl >}}/resources/hwts_paper)). Also available through the [USAID Hygiene Improvement Project](http://www.hip.watsan.net/page/504).
 
@@ -175,9 +175,9 @@ Clasen, Thomas, and Sandy Cairncross. "Editorial: Household Water Management: Re
 
 Wright, Jim, Stephen Gundry, and Ronan Conroy. "Household Drinking Water in Developing Countries: A Systematic Review of Microbiological Contamination between Source and Point-of-use." _Tropical Medicine and International Health_ 9, no. 1 (2004): 106-117.
 
-Gundry, Stephen, Ronan Conroy, and Jim Wright. "A Systematic Review of the Health Outcomes Related to Household Water Quality in Developing Countries." _Journal of Water and Health_ 2 (2004): 1-13. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pdfs.semanticscholar.org/69d3/7965fb55c7589e6173c4e8be9a580ae2283e.pdf?_ga=2.186446188.475975581.1565631504-672817412.1563980296))
+Gundry, Stephen, Ronan Conroy, and Jim Wright. "A Systematic Review of the Health Outcomes Related to Household Water Quality in Developing Countries." _Journal of Water and Health_ 2 (2004): 1-13. ([PDF](https://pdfs.semanticscholar.org/69d3/7965fb55c7589e6173c4e8be9a580ae2283e.pdf?_ga=2.186446188.475975581.1565631504-672817412.1563980296))
 
-Sobsey, Mark. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Managing Water in the Home: Accelerated Health Gains from Improved Water Supply_. (PDF)](http://www.who.int/water_sanitation_health/dwq/WSH02.07.pdf) World Health Organization, 2002.
+Sobsey, Mark. [_Managing Water in the Home: Accelerated Health Gains from Improved Water Supply_. (PDF)](http://www.who.int/water_sanitation_health/dwq/WSH02.07.pdf) World Health Organization, 2002.
 
 
 {{< tdclose >}}
@@ -309,7 +309,7 @@ Rogers, Peter, Ramesh Bhatia, and Annette Huber. "Water as a Social and Economic
 
 Cutler, David, and Grant Miller. "The Role of Public Health Improvements in Health Advances: The Twentieth-Century United States." _Demography_ 42, no. 1 (2005): 1-22.
 
-Hutton, Guy, and Laurence Haller. "Evaluation of the Costs and Benefits of Water and Sanitation Improvements at the Global Level." Water, Sanitation, and Health, Protection of the Human Environment, World Health Organization, Geneva, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.who.int/water_sanitation_health/en/wsh0404.pdf))
+Hutton, Guy, and Laurence Haller. "Evaluation of the Costs and Benefits of Water and Sanitation Improvements at the Global Level." Water, Sanitation, and Health, Protection of the Human Environment, World Health Organization, Geneva, 2004. ([PDF](http://www.who.int/water_sanitation_health/en/wsh0404.pdf))
 
 Recommended readings
 --------------------
@@ -369,12 +369,12 @@ Wrap-up
 {{< anchor "Other_Required_Readings" >}}{{< /anchor >}}Other Required Readings
 ------------------------------------------------------------------------------
 
-US AID Technical Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://pdf.usaid.gov/pdf_docs/pbaab555.pdf
+US AID Technical Notes ([PDF](http://pdf.usaid.gov/pdf_docs/pbaab555.pdf
 )).
 
 [WELL Technical Briefs](http://www.lboro.ac.uk/orgs/well/resources/technical-briefs/).
 
-Solo, Tova Maria, Eduardo Perez, and Steven Joyce. Water and Sanitation for Health Project, WASH Technical Report No. 85: Constraints in Providing Water and Sanitation Services to the Urban Poor. Washington, DC: US Agency for International Development, 1993. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://pdf.usaid.gov/pdf_docs/pnabn953.pdf))
+Solo, Tova Maria, Eduardo Perez, and Steven Joyce. Water and Sanitation for Health Project, WASH Technical Report No. 85: Constraints in Providing Water and Sanitation Services to the Urban Poor. Washington, DC: US Agency for International Development, 1993. ([PDF](http://pdf.usaid.gov/pdf_docs/pnabn953.pdf))
 
 World Health Organization. _The Right to Water_. Geneva, Switzerland: World Health Organization, 2003. ISBN: 9789241590563.
 
@@ -446,7 +446,7 @@ Gleick, Peter. _The World's Water 2004-2005: The Biennial Report on Freshwater R
 
 United Nations Human Settlements Program. _Water and Sanitation in the World's Cities: Local Action for Global Goals_. London, UK: Earthscan Publications Ltd, 2003. ISBN: 9781844070046.
 
-Esrey, Stephen, J. Gough, D. Rapaport, R. Sawyer, M. Simpson-Hebert, J. Vargas, and Uno Winblad, eds. _Ecological Sanitation_. Stockholm, Sweden: Swedish International Development Cooperation Agency (SIDA), 1998. ISBN: 9158676120. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ecosanres.org/pdf_files/Ecological_Sanitation.pdf))
+Esrey, Stephen, J. Gough, D. Rapaport, R. Sawyer, M. Simpson-Hebert, J. Vargas, and Uno Winblad, eds. _Ecological Sanitation_. Stockholm, Sweden: Swedish International Development Cooperation Agency (SIDA), 1998. ISBN: 9158676120. ([PDF](http://www.ecosanres.org/pdf_files/Ecological_Sanitation.pdf))
 
 Reed, Robert A. _Sustainable Sewerage: Guidelines for Community Schemes_. London, UK: Intermediate Technology in Association with the Water, Engineering and Development Centre, 1995. ISBN: 9781853393051.
 
