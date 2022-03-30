@@ -6,6 +6,7 @@ description: Assignment to develop a policy memo detailing a strategy to reduce 
   direction.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/b6385c91bd4bfec2a87e9466cc8e2e6c_memo1.pdf
 file_type: application/pdf
+parent_uid: c4587ca4-f0d3-b7df-e143-068923251e36
 resourcetype: Document
 title: 'Policy Memo #1'
 uid: b6385c91-bd4b-fec2-a87e-9466cc8e2e6c
